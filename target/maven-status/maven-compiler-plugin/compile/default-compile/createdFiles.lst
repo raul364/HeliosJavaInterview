@@ -1,0 +1,6 @@
+org\example\medservice\model\Answer.class
+org\example\medservice\controller\ConsultationController.class
+org\example\medservice\model\Question.class
+org\example\medservice\MedserviceApplication.class
+org\example\medservice\model\ConsultationResult.class
+org\example\medservice\service\ConsultationService.class
